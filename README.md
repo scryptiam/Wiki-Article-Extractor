@@ -1,5 +1,5 @@
-## 📖 WikiExtractor: A Simple Wikipedia Article Extractor
-WikiExtractor is a straightforward Python script that fetches and displays the plain text content of any given Wikipedia article. It's a quick way to grab the text of an article without the hassle of a web browser.
+## 📖 Wiki-Article-Extractor: A Simple Wikipedia Article Extractor
+As the title says, Wiki-Article-Extractor is a straightforward Python script that fetches and displays the plain text content of any given Wikipedia article. It's a quick way to grab the text of an article without the hassle of a web browser.
 ## ✨ Features
  * Simple and Fast: Just run the script, enter the article title, and get the text.
  * Plain Text Output: Extracts only the raw text, free from any HTML formatting or images.
