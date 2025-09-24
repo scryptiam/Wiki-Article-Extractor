@@ -31,6 +31,5 @@ Fetching article, please wait...
 
 Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician...
 ```
-## 📝 License
-This project is open-source and available under the MIT License.
-
+## Support me
+<a href='https://ko-fi.com/Z8Z21LRIBE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
